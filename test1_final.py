@@ -16,5 +16,5 @@ print(prob_list.max())
 print("Ex ",round(prob_list.prob("Ex"),3))
 print("In", round(prob_list.prob("In"),3))
 #print(round(prob_list.prob("In"),3)
-#print(a)  
+#print(ab)  
 
